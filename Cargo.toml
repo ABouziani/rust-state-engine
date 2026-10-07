@@ -1,6 +1,8 @@
 [package]
 name = "rust-state-engine"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+description = "A generic zero-copy blockchain state engine in Rust"
+license = "MIT"
 
 [dependencies]
